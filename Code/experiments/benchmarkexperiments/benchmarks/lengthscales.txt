@@ -1,0 +1,1 @@
+{"branin": 0.5, "sixhumpcamel": 0.5, "beale": 1, "bohachevsky_a": 1.7, "bohachevsky_b": 1.7, "bohachevsky_c": 1.7, "rosenbrock2": 0.7, "ackley2": 3.5, "hartmann3": 0.5, "trid4": 10.75, "shekel": 1.75, "ackley5": 5, "hartmann6": 0.5, "levy6": 5, "levy8": 2.5, "rastrigin8": 7, "dixonprice10": 2}

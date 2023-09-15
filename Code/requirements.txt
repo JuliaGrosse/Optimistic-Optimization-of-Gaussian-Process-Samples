@@ -1,0 +1,12 @@
+emukit==0.4.9
+GPy==1.10.0
+gpytorch==1.9.1
+matplotlib==3.4.3
+networkx==2.5
+numpy==1.22.1
+pandas==1.1.5
+probnum==0.1.23
+scipy==1.10.1
+tikzplotlib==0.9.6
+torch==1.13.1
+tueplots==0.0.6
